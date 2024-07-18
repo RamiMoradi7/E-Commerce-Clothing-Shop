@@ -1,4 +1,4 @@
-
+# Trendy Threads 👗👖
 
 Welcome to **Trendy Threads**, an e-commerce clothing shop built with a modern full-stack approach! This application allows users to browse, purchase, and manage clothing products seamlessly.
 
