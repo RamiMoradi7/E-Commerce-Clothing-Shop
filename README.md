@@ -4,12 +4,12 @@ Welcome to **Trendy Threads**, an E-Commerce site featuring secure payment proce
 
 ## Features ✨
 
-Used MongoDB to achieve scalable and efficient data management.
-Designed RESTful API for reliable and scalable data interaction.
-Designed and architecture scalable web application.
-Utilized Object-Oriented Programming principles to create clean, maintainable and scalable code.
-Integrated encrypted credit card payment processing with hashing to ensure secure transactions.
-Utilized GitHub and Git for efficient version control.
+- Used MongoDB to achieve scalable and efficient data management.
+- Designed RESTful API for reliable and scalable data interaction.
+- Designed and architecture scalable web application.
+- Utilized Object-Oriented Programming principles to create clean, maintainable and scalable code.
+- Integrated encrypted credit card payment processing with hashing to ensure secure transactions.
+- Utilized GitHub and Git for efficient version control.
 
 - **Admin Panel**: Manage products, orders, categories, sizes,and more. 
 - **Product Management**: Add, update, and delete clothing items effortlessly.
